@@ -1,0 +1,40 @@
+SDK/platform/pal/src/pwm/pwm_pal.o: ../SDK/platform/pal/src/pwm/pwm_pal.c \
+ ../SDK/platform/pal/inc/pwm_pal.h \
+ D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/status.h \
+ D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/callbacks.h \
+ ../SDK/platform/pal/inc/pwm_pal_mapping.h \
+ D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/device_registers.h \
+ D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/common/s32_core_cm4.h \
+ D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/S32K144/include/S32K144.h \
+ D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/S32K144/include/S32K144_features.h \
+ D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/devassert.h \
+ D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/board/pwm_pal_cfg.h \
+ ../SDK/platform/drivers/inc/ftm_pwm_driver.h \
+ ../SDK/platform/drivers/inc/ftm_common.h \
+ ../SDK/platform/drivers/inc/ftm_common.h
+
+../SDK/platform/pal/inc/pwm_pal.h:
+
+D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/status.h:
+
+D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/callbacks.h:
+
+../SDK/platform/pal/inc/pwm_pal_mapping.h:
+
+D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/device_registers.h:
+
+D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/common/s32_core_cm4.h:
+
+D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/S32K144/include/S32K144.h:
+
+D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/S32K144/include/S32K144_features.h:
+
+D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/SDK/platform/devices/devassert.h:
+
+D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/board/pwm_pal_cfg.h:
+
+../SDK/platform/drivers/inc/ftm_pwm_driver.h:
+
+../SDK/platform/drivers/inc/ftm_common.h:
+
+../SDK/platform/drivers/inc/ftm_common.h:

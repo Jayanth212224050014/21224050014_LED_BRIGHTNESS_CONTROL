@@ -1,0 +1,15 @@
+-c
+-I../SDK/platform/drivers/inc
+-I../SDK/platform/drivers/src/ftm
+-I../SDK/platform/pal/inc
+-I../SDK/rtos/osif
+-I"D:/ANCIT_NEW/s32_project/_212224050014_BRIGNTNESS_CONTROL/board"
+-x assembler-with-cpp
+-g3
+-mcpu=cortex-m4
+-mthumb
+-mfloat-abi=hard
+-mfpu=fpv4-sp-d16
+-specs=nano.specs
+-specs=nosys.specs
+--sysroot="D:/ANCIT_NEW/s32_installation/S32DS/build_tools/gcc_b1620/gcc-6.3-arm32-eabi/arm-none-eabi/newlib"
